@@ -267,3 +267,8 @@
   description: type-safe dimensional analysis
   type: Library
   link: https://github.com/kunalsheth/units-of-measure
+  
+- name: TornadoFX
+  description: GUI library for Koltin
+  type: Library
+  link: https://tornadofx.io
